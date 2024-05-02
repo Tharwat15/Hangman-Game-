@@ -1,7 +1,7 @@
 <h1>Hangman Game</h1>
 This Hangman game is a simple implementation written in Python. It allows players to guess a word within a certain number of attempts. The game randomly selects a word from a predefined list, and the player must guess letters to reveal the hidden word.
 
-Features:
+<h3>Features:</h3>
 Random word selection from a predefined list.
 Limited attempts to guess the word.
 Feedback on correct and incorrect guesses.
